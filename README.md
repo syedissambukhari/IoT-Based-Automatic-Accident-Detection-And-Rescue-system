@@ -69,10 +69,7 @@ Accidents are a significant concern on roads, and timely rescue can save lives. 
 
     - The system will automatically detect accidents and send alerts to the configured contacts with location details.
 
-## System Architecture
 
-<!-- Add a link to your system architecture diagram or embed an image -->
-![System Architecture](path/to/system_architecture_diagram.png)
 
 ## Project Structure
 
